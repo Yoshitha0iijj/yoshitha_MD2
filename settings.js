@@ -56,10 +56,10 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
 global.author = "Yoshitha-MD" //ur sticker watermark author
 global.footer = "ɯԋαƚʂαρρ υʂҽɾ Ⴆσƚ ƈɾҽαƚҽԃ Ⴆყ Yσʂԋιƚԋα"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.aliveimg ="https://telegra.ph/file/ba49dade5e4085e40e7ab.jpg"
+global.allmenuimg ="https://telegra.ph/file/ba49dade5e4085e40e7ab.jpg"
+global.welcomeimg= "https://telegra.ph/file/ba49dade5e4085e40e7ab.jpg"
+global.gbyeimg = "https://telegra.ph/file/ba49dade5e4085e40e7ab.jpg"
 global.alivemsg = "💖hello,i'm ᵏⁱⁿᵍ ʸᵃˢʰⁱʸᵃwhatsapp user bot💖
 
 im alive now!😈
@@ -173,4 +173,4 @@ fs.watchFile(file, () => {
 	console.log(chalk.redBright(`Update'${__filename}'`))
 	delete require.cache[file]
 	require(file)
-})
+}) 
