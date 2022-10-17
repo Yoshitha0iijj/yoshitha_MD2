@@ -60,7 +60,45 @@ global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "Yσʂԋιƚԋα-Mԃ bot alive now... type.menu to get command list...  money can't get happy මචන්...  it is what it is😂...  mk ඉතින් ඔයගොල්ලො... මොකද්ද දැන් මගෙන් වෙන්න ඕනෙ🤞...   how can i help you😈...    whatsapp user bot created by yoshitha dilmith"
+global.alivemsg = "💖hello,i'm ᵏⁱⁿᵍ ʸᵃˢʰⁱʸᵃwhatsapp user bot💖
+
+im alive now!😈
+how can i help you😴
+type .menu to get command list💝
+type .alive to get alive msg😴
+
+❯ DON`T DISEPENSABLE WORK TO USE BOT🚫🔞
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් ගැන දැන ගන්න [ .menu ] එවන්න.🌼̠̠̠⃝💎̥̥̥
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් දෙන්න කලින් ( . ) එකක් ටයිප් කරන්න.💎̥̥̥̏̅̅̅̅̅⃟🍭
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+
+🍃🍃🍃🍃🍃🍃🍃🍃🍃
+
+╠══════════════⦂⦁▹➤
+දැන් ඉතින් ඔය ලමයි කාල බීලද ඉන්නෙ🙃
+╠══════════════⦂⦁▹➤
+🍂🍂🍂🍂🍂🍂🍂🍂🍂
+╠══════════════⦂⦁▹➤
+දැන් අර මන් කියපු විදිහට ටයිප් කල්ල ඒකෙ තියෙන කමාන්ඩ් පාවිච්චි කරන්න හරිද.♥
+╠══════════════⦂⦁▹➤
+නිකාන් බොරුවට බොට්ව පාවිච්චි කරන්න එපා.අනික අනවශ්‍ය වීඩියෝ ස්ටිකර් ගන්නත් පවිච්චි කරන්න එපා💖
+╠══════════════⦂⦁▹➤
+මන් කියපු විදිහට වැඩේ කරන්න ඕන හරිද☘
+  ඒනම් කොල්ලො අපි ගියා🙃
+╠══════════════⦂⦁▹➤
+     ╠══════════════⦂⦁▹➤
+         මම යෝශිත දිල්මිත්
+🍂...genarated by king yashiya...🍂
+╠══════════════⦂⦁▹➤"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
